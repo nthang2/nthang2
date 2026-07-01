@@ -26,6 +26,6 @@
 
 ### Current Research Focus
 
-*Quantitative research for systematic trading strategies
-*Quantitative finance, asset pricing, and market behavior
-*Probability, statistics, and quantitative finance
+- Quantitative research for systematic trading strategies
+- Quantitative finance, asset pricing, and market behavior
+- Probability, statistics, and quantitative finance
