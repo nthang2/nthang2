@@ -18,6 +18,14 @@
 
 ---
 
+### Experience
+
+**Product Manager** @ Astar Group
+
+March 2025 – February 2026
+
+---
+
 ### Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/nguyễn-thắng-35317837a)
